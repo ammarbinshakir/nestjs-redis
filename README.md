@@ -1,3 +1,7 @@
+# NestJS Messaging Queue Using Redis
+
+This repository contains the solution for integrating a message queue using redis
+
 ## Setup Instructions
 
 - **Install PostgreSQL Locally**
